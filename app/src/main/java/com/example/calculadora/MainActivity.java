@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
         Num2 = findViewById(R.id.Numero_2);
     }
 
+    //Metodos a utilizar
+
     private boolean Validar()
     {
         try{
