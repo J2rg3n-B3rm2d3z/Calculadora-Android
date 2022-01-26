@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Calculadora</string>
+
+    <!-- Botones -->
+
+    <string name="btn_Sumar">Sumar</string>
+    <string name="btn_Restar">Restar</string>
+    <string name="btn_Multiplicar">Multiplicar</string>
+    <string name="btn_Dividir">Dividir</string>
+
+    <!-- Textos -->
+
+    <string name="txtview_Respuesta">0</string>
+    <string name="txtedit_Numero1">Ingrese el primer numero</string>
+    <string name="txtedit_Numero2">Ingrese el segundo numero</string>
+
+</resources>
