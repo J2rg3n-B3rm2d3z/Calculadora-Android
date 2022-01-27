@@ -20,6 +20,7 @@
             android:id="@+id/imageView"
             android:layout_width="137dp"
             android:layout_height="135dp"
+            android:contentDescription="@string/Descripcion_imagen1"
             app:srcCompat="@drawable/ic_launcher1" />
 
         <TextView
@@ -102,6 +103,14 @@
 
         <Space
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="80dp" />
+
+        <Button
+            android:id="@+id/btn_Acerca_de"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="232dp"
+            android:layout_height="wrap_content"
+            android:onClick="Acercade"
+            android:text="@string/btn_Acerca_de" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
